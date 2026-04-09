@@ -5,6 +5,10 @@ Reinforcement learning optimization of a green hydrogen production plant using P
 ## Overview
 This project applies Reinforcement Learning (PPO) to optimize the operation
 of a green hydrogen production plant with storage using real electricity prices.
+## Research Motivation
+Decarbonizing hydrogen production requires adaptive operational strategies
+under volatile electricity markets. This project explores reinforcement
+learning as a control paradigm for flexible electrolyzer operation.
 
 ## Scenarios
 - Grid electricity market
