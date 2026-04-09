@@ -18,3 +18,8 @@ of a green hydrogen production plant with storage using real electricity prices.
 
 ## How to Run
 Install dependencies:
+pip install -r requirements.txt
+Run training:
+python main.py
+## Goal
+Learn an adaptive hydrogen production strategy minimizing electricity cost.
